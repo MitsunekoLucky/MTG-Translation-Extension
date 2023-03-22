@@ -23,7 +23,7 @@
                 "type": "redirect", 
                 "redirect":
                     { 
-                        "url": "https://ucb61cb6029b572bce0f9cf086e6.dl.dropboxusercontent.com/cd/0/inline/B4pv7qQbcCRE-dJMl4A3D51BCONPvpwgtIWPJ6BJYbvwLx0qWdd6vHDxyigNAZYhUJVnNyq6RU5Ijm20yjZx4IqdflBImhQ7JgVmFUEX7Idq2cWIZgT_DkyfUFrSwHqQ0HvaKI2MqYpFLOJYrd8fyJ1BSa29lS0r7p9AAhkNzByDCw/file#"
+                        "url": "https://dl.dropboxusercontent.com/s/aqu4r3oeait5mh0/89dc2a04-6126-448a-a034-948acb0ec2eb.json"
                     } 
                 },
         "condition": 
@@ -39,7 +39,7 @@
                 "type": "redirect", 
                 "redirect":
                     { 
-                        "url": "https://ucb61cb6029b572bce0f9cf086e6.dl.dropboxusercontent.com/cd/0/inline/B4pv7qQbcCRE-dJMl4A3D51BCONPvpwgtIWPJ6BJYbvwLx0qWdd6vHDxyigNAZYhUJVnNyq6RU5Ijm20yjZx4IqdflBImhQ7JgVmFUEX7Idq2cWIZgT_DkyfUFrSwHqQ0HvaKI2MqYpFLOJYrd8fyJ1BSa29lS0r7p9AAhkNzByDCw/file#"
+                        "url": "https://dl.dropboxusercontent.com/s/vagwc2bxrk8ytj6/fccbc651-24cc-4e3d-bd9f-f2ad67cdcb65.json"
                     } 
                 },
         "condition": 
@@ -109,6 +109,70 @@
         "condition": 
         {
             "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/89/89dc2a04-6126-448a-a034-948acb0ec2eb/ResourceHanRoundedTW-Medium.ttf"
+        }
+    },
+    {
+        "id": 8,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/dsovn711rjxlesn/033419da5.json"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/03/033419da5.json"
+        }
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/7oery7789ai8jkm/058f460eb.json"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/05/058f460eb.json"
+        }
+    },
+    {
+        "id": 10,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/zc73lhikqjn7uxq/girasd.json"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/06/068412a3a.json"
+        }
+    },
+    {
+        "id": 11,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/29kyx4s4292yf2g/test2.json"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/06/060adf888.json"
         }
     }
 ]
