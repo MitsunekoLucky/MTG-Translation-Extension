@@ -1,0 +1,59 @@
+{
+  "name": "mtg",
+  "description": "testing",
+  "manifest_version": 3,
+  "version": "1.0",
+
+  "icons":
+  {
+    "16": "/images/icon16.png",
+    "48": "/images/icon48.png",
+    "128": "/images/icon128.png"
+  },
+
+  "action":
+  {
+    "fault_icon":
+    {
+      "16": "/images/icon16.png",
+      "48": "/images/icon48.png",
+      "128": "/images/icon128.png"
+    }
+  },
+
+  "declarative_net_request":{
+    "rule_resources":[
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules_1.json"
+      },
+      {
+        "id": "ruleset_2",
+        "enabled": true,
+        "path": "rules_2.json"
+      }
+    ]
+  },
+
+  "permissions": [ 
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "tabs", 
+    "webNavigation",
+    "webRequest", 
+    "storage", 
+    "unlimitedStorage"
+  ],
+
+  "host_permissions":[
+    "http://*/*",
+    "https://*/*"
+  ],
+
+  
+
+  "background":{
+    "service_worker": "background.js"
+  }
+}

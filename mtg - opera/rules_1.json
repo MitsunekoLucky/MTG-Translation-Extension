@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/85ce50da-4a9b-4e32-a8b2-a91c847b447e.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/85/85ce50da-4a9b-4e32-a8b2-a91c847b447e.png"
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/8a1b9203-5900-45ac-b701-030e7598e04b.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/8a/8a1b9203-5900-45ac-b701-030e7598e04b.png"
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/d0eb6902-488a-4200-8289-9783857feb41.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/d0/d0eb6902-488a-4200-8289-9783857feb41.png"
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/9cbe1d5f-598e-4b8d-a3a2-c4a5934ac7f1.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/9c/9cbe1d5f-598e-4b8d-a3a2-c4a5934ac7f1.png"
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/91a3db7a-612a-4e67-a49e-52f803fd7966.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/91/91a3db7a-612a-4e67-a49e-52f803fd7966.png"
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/7d7f4c89-242f-4ae3-ac1c-195ec04d5607.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/7d/7d7f4c89-242f-4ae3-ac1c-195ec04d5607.png"
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/c9b570f2-936e-4fff-ba72-8a2f243ca02b.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/c9/c9b570f2-936e-4fff-ba72-8a2f243ca02b.png"
+        }
+    },
+    {
+        "id": 8,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/c84dd025-d8f1-4474-b905-0f8de9ae0bd7.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/c8/c84dd025-d8f1-4474-b905-0f8de9ae0bd7.png"
+        }
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/825bf98c-bc2b-454c-97d9-1a07931bd7ed.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/82/825bf98c-bc2b-454c-97d9-1a07931bd7ed.png"
+        }
+    },
+    {
+        "id": 10,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/4ea13c4c-d834-4a5c-b0bb-7489d2b37d8c.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/4e/4ea13c4c-d834-4a5c-b0bb-7489d2b37d8c.png"
+        }
+    },
+    {
+        "id": 11,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/35be9fdb-0603-497c-974d-9bc9fedf620c.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/35/35be9fdb-0603-497c-974d-9bc9fedf620c.png"
+        }
+    },
+    {
+        "id": 12,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/c131b726-dfdf-48bf-98c8-3ee2bcb31ad5.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/c1/c131b726-dfdf-48bf-98c8-3ee2bcb31ad5.png"
+        }
+    },
+    {
+        "id": 13,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/5732211c-77d8-436f-a38a-97eee71b743f.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/57/5732211c-77d8-436f-a38a-97eee71b743f.png"
+        }
+    },
+    {
+        "id": 14,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/40be6766-2921-489f-bf31-3e20485a61d5.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/40/40be6766-2921-489f-bf31-3e20485a61d5.png"
+        }
+    },
+    {
+        "id": 15,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/9387e115-cf9c-4f2e-bc6d-43bb749f7001.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/93/9387e115-cf9c-4f2e-bc6d-43bb749f7001.png"
+        }
+    },
+    {
+        "id": 16,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/16301fa8-e4fe-4bc9-8aea-14dbed55853c.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/16/16301fa8-e4fe-4bc9-8aea-14dbed55853c.png"
+        }
+    },
+    {
+        "id": 17,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/9b435937-4273-4bef-95d4-c2d3cc66070c.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/9b/9b435937-4273-4bef-95d4-c2d3cc66070c.png"
+        }
+    },
+    {
+        "id": 18,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/5988b576-e51a-45dd-9016-757344b3e068.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/59/5988b576-e51a-45dd-9016-757344b3e068.png"
+        }
+    },
+    {
+        "id": 19,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/9e6e5f62-6f54-48ee-b669-4f7c29a0bea3.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/9e/9e6e5f62-6f54-48ee-b669-4f7c29a0bea3.png"
+        }
+    },
+    {
+        "id": 20,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/5c876217-a3de-4a97-ae48-99fc3b6b4590.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/5c/5c876217-a3de-4a97-ae48-99fc3b6b4590.png"
+        }
+    },
+    {
+        "id": 21,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/b9f0a5c3-82fa-40dd-89eb-9f430591a8db.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/b9/b9f0a5c3-82fa-40dd-89eb-9f430591a8db.png"
+        }
+    },
+    {
+        "id": 22,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/bd2ce8d4-efad-43f4-a162-2f855894a5dd.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/bd/bd2ce8d4-efad-43f4-a162-2f855894a5dd.png"
+        }
+    },
+    {
+        "id": 23,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/04446980-592c-4c96-945c-3f531b049163.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/04/04446980-592c-4c96-945c-3f531b049163.png"
+        }
+    },
+    {
+        "id": 24,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/d8466f05-0e0e-4aa8-8af1-6ae724204edf.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/d8/d8466f05-0e0e-4aa8-8af1-6ae724204edf.png"
+        }
+    },
+    {
+        "id": 25,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/ec60780e-e1ea-446c-9c81-1f9f822fe0e6.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/ec/ec60780e-e1ea-446c-9c81-1f9f822fe0e6.png"
+        }
+    },
+    {
+        "id": 26,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/f9ec5763-856d-4745-8240-d6cf261f75d7.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/f9/f9ec5763-856d-4745-8240-d6cf261f75d7.jpg"
+        }
+    },
+    {
+        "id": 27,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/2a45c59d-bb40-4e51-92b2-399148aa3523.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/2a/2a45c59d-bb40-4e51-92b2-399148aa3523.png"
+        }
+    },
+    {
+        "id": 28,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/9ca9d278-4621-4af5-84f8-077c20bb2721.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/9c/9ca9d278-4621-4af5-84f8-077c20bb2721.png"
+        }
+    },
+    {
+        "id": 29,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/5a6e9c7e-4adb-4104-8da9-04d9dcab303f.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/5a/5a6e9c7e-4adb-4104-8da9-04d9dcab303f.png"
+        }
+    },
+    {
+        "id": 30,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/44fd7c78-3e58-4b54-befb-77f7d2c99789.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/44/44fd7c78-3e58-4b54-befb-77f7d2c99789.png"
+        }
+    }
+]

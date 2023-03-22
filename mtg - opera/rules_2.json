@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/wltd16d5vdc7xj8/0c28da094.json"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/0c/0c28da094.json"
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://ucb61cb6029b572bce0f9cf086e6.dl.dropboxusercontent.com/cd/0/inline/B4pv7qQbcCRE-dJMl4A3D51BCONPvpwgtIWPJ6BJYbvwLx0qWdd6vHDxyigNAZYhUJVnNyq6RU5Ijm20yjZx4IqdflBImhQ7JgVmFUEX7Idq2cWIZgT_DkyfUFrSwHqQ0HvaKI2MqYpFLOJYrd8fyJ1BSa29lS0r7p9AAhkNzByDCw/file#"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/89/89dc2a04-6126-448a-a034-948acb0ec2eb.json"
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://ucb61cb6029b572bce0f9cf086e6.dl.dropboxusercontent.com/cd/0/inline/B4pv7qQbcCRE-dJMl4A3D51BCONPvpwgtIWPJ6BJYbvwLx0qWdd6vHDxyigNAZYhUJVnNyq6RU5Ijm20yjZx4IqdflBImhQ7JgVmFUEX7Idq2cWIZgT_DkyfUFrSwHqQ0HvaKI2MqYpFLOJYrd8fyJ1BSa29lS0r7p9AAhkNzByDCw/file#"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/fc/fccbc651-24cc-4e3d-bd9f-f2ad67cdcb65.json"
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/wl4n2wf4r87jasp/55l9kl.ttf"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/fc/fccbc651-24cc-4e3d-bd9f-f2ad67cdcb65/ResourceHanRoundedTW-Medium.ttf"
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/wl4n2wf4r87jasp/55l9kl.ttf"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/89/89dc2a04-6126-448a-a034-948acb0ec2eb/ResourceHanRoundedTW-Bold.ttf"
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/wl4n2wf4r87jasp/55l9kl.ttf"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/fc/fccbc651-24cc-4e3d-bd9f-f2ad67cdcb65/ResourceHanRoundedTW-Bold.ttf"
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://dl.dropboxusercontent.com/s/wl4n2wf4r87jasp/55l9kl.ttf"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/89/89dc2a04-6126-448a-a034-948acb0ec2eb/ResourceHanRoundedTW-Medium.ttf"
+        }
+    }
+]
