@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/text/MSkillViewModel.json"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web-static/MasterData/MSkillViewModel.json",
+            "resourceTypes": ["xmlhttprequest"]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": 
+            {
+                "type": "redirect", 
+                "redirect":
+                    { 
+                        "url": "https://khrysystem.dev/mtg-translated/img/2a45c59d-bb40-4e51-92b2-399148aa3523.png"
+                    } 
+                },
+        "condition": 
+        {
+            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/raw-assets/2a/2a45c59d-bb40-4e51-92b2-399148aa3523.png",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+        }
+    }
+]

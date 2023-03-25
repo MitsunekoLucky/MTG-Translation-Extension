@@ -126,53 +126,5 @@
         {
             "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/03/033419da5.json"
         }
-    },
-    {
-        "id": 9,
-        "priority": 1,
-        "action": 
-            {
-                "type": "redirect", 
-                "redirect":
-                    { 
-                        "url": "https://dl.dropboxusercontent.com/s/7oery7789ai8jkm/058f460eb.json"
-                    } 
-                },
-        "condition": 
-        {
-            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/05/058f460eb.json"
-        }
-    },
-    {
-        "id": 10,
-        "priority": 1,
-        "action": 
-            {
-                "type": "redirect", 
-                "redirect":
-                    { 
-                        "url": "https://dl.dropboxusercontent.com/s/zc73lhikqjn7uxq/girasd.json"
-                    } 
-                },
-        "condition": 
-        {
-            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/06/068412a3a.json"
-        }
-    },
-    {
-        "id": 11,
-        "priority": 1,
-        "action": 
-            {
-                "type": "redirect", 
-                "redirect":
-                    { 
-                        "url": "https://dl.dropboxusercontent.com/s/29kyx4s4292yf2g/test2.json"
-                    } 
-                },
-        "condition": 
-        {
-            "urlFilter": "https://assets.mist-train-girls.com/production-client-web/144/res/import/06/060adf888.json"
-        }
     }
 ]

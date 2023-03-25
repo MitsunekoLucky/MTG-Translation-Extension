@@ -25,13 +25,18 @@
     "rule_resources":[
       {
         "id": "ruleset_1",
-        "enabled": true,
+        "enabled": false,
         "path": "rules_1.json"
       },
       {
         "id": "ruleset_2",
-        "enabled": true,
+        "enabled": false,
         "path": "rules_2.json"
+      },
+      {
+        "id": "ruleset_3",
+        "enabled": false,
+        "path": "rules_3.json"
       }
     ]
   },
@@ -41,7 +46,6 @@
     "declarativeNetRequestFeedback",
     "tabs", 
     "webNavigation",
-    "webRequest", 
     "storage", 
     "unlimitedStorage"
   ],
